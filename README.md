@@ -22,11 +22,11 @@
 
 ## 安装说明
 
-1. 克隆本目录到本地或下载[master.zip][1]后解压
+由于新版本Chrome已禁止安装第三方应用，且本破解版无法上传至[Chrome网上应用店](https://chrome.google.com/webstore)，因此只能通过以下方法在开发者模式下运行：
+
+1. 克隆本仓库到本地或下载[master.zip](https://github.com/haotian-wang/google-access-helper/archive/master.zip)后解压
 2. 打开Chrome扩展程序管理器 `chrome://extensions`
-3. 勾选“开发者模式”
-4. 点击“加载已解压的扩展程序”，选择本扩展所在目录
+3. 勾选`开发者模式`
+4. 点击`加载已解压的扩展程序`，选择本扩展所在目录
 
-**注：** 本插件只能采用开发者模式运行，因为新版本Chrome已不支持安装非Chrome应用商店的应用。
-
-[1]: https://github.com/haotian-wang/google-access-helper/archive/master.zip
+此外，也可以通过将本插件添加至Chrome白名单的方式安装，详情请见[Wiki](https://github.com/haotian-wang/google-access-helper/wiki/Third-party-Extensions-Installation-Guide)。
