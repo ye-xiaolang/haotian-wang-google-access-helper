@@ -29,4 +29,4 @@
 3. 勾选`开发者模式`
 4. 点击`加载已解压的扩展程序`，选择本扩展所在目录
 
-此外，也可以通过将本插件添加至Chrome白名单的方式安装，详情请见[Wiki](https://github.com/haotian-wang/google-access-helper/wiki/Third-party-Extensions-Installation-Guide)。
+此外，也可以通过将本插件添加至Chrome白名单的方式安装，详情请见[Wiki](https://github.com/haotian-wang/google-access-helper/wiki/Third-party-Extensions-Installation-Guide#%E5%B0%86%E6%8F%92%E4%BB%B6%E5%8A%A0%E5%85%A5chrome%E7%99%BD%E5%90%8D%E5%8D%95)。
