@@ -22,14 +22,14 @@
 
 ## 安装说明
 
-由于新版本Chrome已禁止安装第三方应用，且本破解版无法上传至[Chrome网上应用店](https://chrome.google.com/webstore)，因此只能通过以下方法在开发者模式下运行：
+由于新版本Chrome已禁止安装第三方应用，且本破解版无法上传至[Chrome网上应用店](https://chrome.google.com/webstore)，较为直接的安装方法是在开发者模式下加载本插件，具体步骤如下：
 
 1. 克隆本仓库到本地或下载[master.zip](https://github.com/haotian-wang/google-access-helper/archive/master.zip)后解压
 2. 打开Chrome扩展程序管理器 `chrome://extensions`
 3. 勾选`开发者模式`
 4. 点击`加载已解压的扩展程序`，选择本扩展所在目录
 
-此外，也可以通过将本插件添加至Chrome白名单的方式安装，详情请见[Wiki](https://github.com/haotian-wang/google-access-helper/wiki/Installation-Guide#%E5%B0%86%E6%8F%92%E4%BB%B6%E5%8A%A0%E5%85%A5chrome%E7%99%BD%E5%90%8D%E5%8D%95)。
+此方法安装后，每次启动Chrome都会提示“请停止以开发者模式运行的扩展程序”。如果想关掉这个提示，可以将本插件添加至Chrome白名单，详情请见[Wiki](https://github.com/haotian-wang/google-access-helper/wiki/Installation-Guide#%E6%96%B9%E6%B3%952%E7%9B%B4%E6%8E%A5%E5%AE%89%E8%A3%85crx%E6%96%87%E4%BB%B6)。
 
 ## 破解说明
 
